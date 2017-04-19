@@ -1,6 +1,6 @@
 {
   "name": "Roomba SCI",
-  "keywords": "iRobot, Roomba, SCI",
+  "keywords": "irobot, roomba, sci",
   "description": "The library implements Roomba's Serial Command Interface for Arduino.",
 	"authors":
 	{
