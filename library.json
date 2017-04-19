@@ -1,0 +1,21 @@
+{
+  "name": "Roomba SCI",
+  "keywords": "iRobot, Roomba, SCI",
+  "description": "The library implements Roomba's Serial Command Interface for Arduino.",
+	"authors":
+	{
+		"name": "Dusan Stojkovic",
+		"email": "dusan@stojkovic.ch",
+	},
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/foo/bar.git"
+  },
+  "examples": [
+      "[Ee]xamples/*.ino"
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
